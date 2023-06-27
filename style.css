@@ -1,0 +1,23 @@
+body {
+  color: antiquewhite;
+}
+button {
+  color: inherit;
+}
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  max-width: 700px;
+  background-color: #005490;
+  padding: 30px;
+}
+
+#hex-color-div {
+  font-size: 30px;
+  text-align: center;
+}
